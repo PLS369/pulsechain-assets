@@ -1,0 +1,12 @@
+{
+  "name": "Melody Token",
+  "symbol": "MLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Melody Token (MLD) is a music‑inspired digital asset built on PulseChain, created to represent creativity, rhythm, and sound innovation within the blockchain ecosystem. MLD introduces a play‑to‑earn music experience, where users are rewarded in MLD tokens — the more you play, the more you earn.",
+  "website": "https://melodytoken.io",
+  "explorer": "https://scan.pulsechain.com/address/0xd0047A56a83E9a19B1E0302F5A2bC701e090d57B",
+  "status": "active",
+  "id": "0xd0047A56a83E9a19B1E0302F5A2bC701e090d57B"
+}
+
