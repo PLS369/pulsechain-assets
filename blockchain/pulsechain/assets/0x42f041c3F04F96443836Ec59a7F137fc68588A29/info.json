@@ -1,0 +1,31 @@
+{
+    "name": "Goat Bucks",
+    "website": "https://degenprotocol.io",
+    "description": "Goat Bucks (gUSD) is the sovereign over-collateralized CDP stablecoin of Degen Protocol on PulseChain (Chain ID 369). Minted against locked native collateral at 150% MCR with 0% protocol transfer tax and 1:1 hard redemption arbitrage parity.",
+    "explorer": "https://scan.pulsechain.com/token/0x42f041c3F04F96443836Ec59a7F137fc68588A29",
+    "type": "PRC20",
+    "symbol": "gUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x42f041c3F04F96443836Ec59a7F137fc68588A29",
+    "tags": [
+        "stablecoin",
+        "defi",
+        "cdp"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/D3G3NPROTOCOL"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/DegenProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DegenProtocol_io"
+        }
+    ],
+    "chain": 369
+}

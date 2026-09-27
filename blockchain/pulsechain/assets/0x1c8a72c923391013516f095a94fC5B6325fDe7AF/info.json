@@ -1,0 +1,31 @@
+{
+    "name": "MetaGoat",
+    "website": "https://degenprotocol.io",
+    "description": "MetaGoat () is the sovereign utility and governance asset of Degen Protocol on PulseChain (Chain ID 369). Features hardware-grade enclave wallet execution, verified twin-reserve backing (wBTC + pDAI), gUSD CDP minting, and autonomous bot fleet buyback and burns.",
+    "explorer": "https://scan.pulsechain.com/token/0x1c8a72c923391013516f095a94fC5B6325fDe7AF",
+    "type": "PRC20",
+    "symbol": "MGOAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1c8a72c923391013516f095a94fC5B6325fDe7AF",
+    "tags": [
+        "defi",
+        "yield",
+        "staking"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/D3G3NPROTOCOL"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/DegenProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DegenProtocol_io"
+        }
+    ],
+    "chain": 369
+}
