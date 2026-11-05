@@ -1,0 +1,22 @@
+{
+  "name": "Optimus Prime",
+  "type": "PRC20",
+  "symbol": "PRIME",
+  "decimals": 18,
+  "website": "https://primetokenpls.xyz",
+  "description": "PRIME (Optimus Prime) is a community token on PulseChain. 21,000,000 were minted, 4,000,000 were sent to the burn address, and 17,000,000 circulate. It trades on PulseX and 9mm. Not affiliated with Hasbro, Paramount, or Transformers.",
+  "explorer": "https://scan.pulsechain.com/token/0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7",
+  "status": "active",
+  "id": "0x041e2Ab0a4AF5066035Cd464E66A10Cf5a9cdDd7",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/sarcastic_0xbb"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PrimeTokenPLS"
+    }
+  ],
+  "chain": 369
+}
